@@ -1,0 +1,149 @@
+body {
+    background-color: #141414;
+    font-family: 'Kumbh Sans', sans-serif;
+    height: 150vh;  
+}
+
+h1 {
+    color: #fff;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    margin-left: 8px;
+}
+
+.search__bar {
+    display: flexbox;
+    width: 100%;
+}
+
+#search {
+    font-size: 15px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 2px;
+    margin-left: 8px;
+    margin-right: 0px;
+    border: none;
+    border-radius: 5px;
+    width: 86%;
+    margin-bottom: 0px;
+}
+
+h2 {
+    color: #fff;
+    margin-top: 25px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+}
+
+.head__box {
+    background-color: darkgrey;
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+    height: 100px;
+    border-radius: 6px;
+    margin: 8px;
+}
+
+p {
+    line-height: 7px;
+    display: grid;
+    align-items: right;
+    font-size: 18px;
+}
+
+#no2 {
+    font-size: 23px;
+}
+#no3 {
+    font-size: 16px;
+}
+
+img {
+    width: 30%;
+    height: 88px;
+    padding-top: 6px;
+    margin-left: 9px;
+    margin-top: 0px;
+    margin-bottom: -9px;
+    padding-bottom: 10px;
+    border-radius: 16px;
+}
+
+.head__text {
+    margin-left: 152px;
+    margin-top: -99px;
+}
+
+.boxes {
+    display: grid;
+    grid-template-columns:repeat(2, 1fr);
+    grid-gap: 20px;
+    overflow: hidden;
+    margin: 25px 8px;
+    margin-bottom: 50px;
+  
+}
+
+.box {
+    border-radius: 7px;
+    color: #fff;
+    height: 115%;
+    width: 100%;
+    overflow: hidden;
+}
+
+h3 {
+    margin-left: 12px;
+    margin-top: 10px;
+}
+
+#box1 {
+    background-color: aqua;
+}
+#box2 {
+    background-color:bisque;
+}
+#box3 {
+    background-color:blue;
+}
+#box4 {
+    background-color:brown;
+}
+#box5 {
+    background-color:chartreuse;
+}
+#box6 {
+    background-color:chocolate;
+}
+#box7 {
+    background-color:crimson;
+}
+#box8 {
+    background-color:coral;
+}
+#box9 {
+    background-color:yellowgreen;
+}
+#box10 {
+    background-color:yellow;
+}
+#box11 {
+    background-color:wheat;
+}
+#box12 {
+    background-color:violet;
+}
+#box13 {
+    background-color:tomato;
+}
+#box14 {
+    background-color:thistle;
+}
+#box15 {
+    background-color:slategray;
+}
+#box16 {
+    background-color:royalblue;
+}
